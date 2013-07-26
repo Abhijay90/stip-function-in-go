@@ -1,4 +1,8 @@
 stip-function-in-go
 ===================
 
-go(strip function)
+Python strip function implemented in go
+
+usage example:
+
+strip(original string,pattern to be striped or balnk string)
